@@ -1,0 +1,23 @@
+.jumbotron {
+    background-image:url("spiderweb.jpg");
+    background-size: cover;
+    min-height: 300px;
+}
+
+.jumbotron h1 {
+    text-align:center;
+    color:white;
+    margin-top:150px;
+    text-shadow: 4px 4px black;
+}
+
+.jumbotron h3{
+    text-align:center;
+    color:white;
+    text-shadow: 4px 4px black;
+   
+}
+
+#colorchangeli a {
+    color:white;
+}
